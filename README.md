@@ -1,1 +1,5 @@
-# okpoker
+# Repoker
+
+Simple Poker program
+
+
